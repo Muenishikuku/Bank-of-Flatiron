@@ -7,6 +7,7 @@ A simple React application for managing bank transactions.
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Authors](#authors)
 - [License](#license)
 
 ## Features
