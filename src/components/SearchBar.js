@@ -7,7 +7,7 @@ const SearchBar = ({ onSearch }) => {
     setSearchTerm(e.target.value);
     onSearch(e.target.value);
   };
-
+ 
   return (
     <input
       type="text"

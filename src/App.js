@@ -9,7 +9,7 @@ const App = () => {
 
   useEffect(() => {
     // Fetch data from the local server
-    fetch('http://localhost:3000/transactions')
+    fetch('https://my-json-server.typicode.com/Muenishikuku/Bank-of-Flatiron/transactions')
       .then((response) => response.json())
       .then((data) => {
         setTransactions(data);
