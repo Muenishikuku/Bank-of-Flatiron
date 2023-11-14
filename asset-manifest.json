@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Muenishikuku/Bank-of-Flatiron/static/css/main.e6c13ad2.css",
-    "main.js": "/Muenishikuku/Bank-of-Flatiron/static/js/main.ca876453.js",
-    "static/js/787.5bca311c.chunk.js": "/Muenishikuku/Bank-of-Flatiron/static/js/787.5bca311c.chunk.js",
-    "index.html": "/Muenishikuku/Bank-of-Flatiron/index.html",
-    "main.e6c13ad2.css.map": "/Muenishikuku/Bank-of-Flatiron/static/css/main.e6c13ad2.css.map",
-    "main.ca876453.js.map": "/Muenishikuku/Bank-of-Flatiron/static/js/main.ca876453.js.map",
-    "787.5bca311c.chunk.js.map": "/Muenishikuku/Bank-of-Flatiron/static/js/787.5bca311c.chunk.js.map"
+    "main.css": "/Bank-of-Flatiron/static/css/main.e6c13ad2.css",
+    "main.js": "/Bank-of-Flatiron/static/js/main.dd60f0f2.js",
+    "static/js/787.5bca311c.chunk.js": "/Bank-of-Flatiron/static/js/787.5bca311c.chunk.js",
+    "index.html": "/Bank-of-Flatiron/index.html",
+    "main.e6c13ad2.css.map": "/Bank-of-Flatiron/static/css/main.e6c13ad2.css.map",
+    "main.dd60f0f2.js.map": "/Bank-of-Flatiron/static/js/main.dd60f0f2.js.map",
+    "787.5bca311c.chunk.js.map": "/Bank-of-Flatiron/static/js/787.5bca311c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ca876453.js"
+    "static/js/main.dd60f0f2.js"
   ]
 }
